@@ -3,7 +3,7 @@
 
 int main()
 {
-	char* name;
+	char name[256];
 	
 	printf("What is your name?");
 		
